@@ -1,5 +1,5 @@
 const request = require("request");
-const geoCode = require("./utils/geocode");
+const geoCode = require("./utils/geoCode");
 
 // const weatherUrl =
 //   "http://api.weatherstack.com/current?access_key=e97b1fccb1d8615cf7726d19141a4745&query=indore";
